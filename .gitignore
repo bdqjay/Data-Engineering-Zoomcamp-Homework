@@ -1,0 +1,4 @@
+module-01-homework/terraform/keys
+module-01-homework/ny_taxi_postgres_data
+module-01-homework/terraform/terraform_with_variables/.terraform*
+module-01-homework/terraform/terraform_with_variables/terraform.tfstate*
